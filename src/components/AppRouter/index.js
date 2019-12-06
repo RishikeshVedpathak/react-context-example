@@ -7,7 +7,7 @@ import Cart from "../Cart"
 
 export default () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Navbar />
       <div className="container">
         <Switch>
