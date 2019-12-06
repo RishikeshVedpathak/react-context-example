@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.34de6062.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.afd3de3c.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.afd3de3c.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.64e4149a.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.64e4149a.js.map",
-    "static/css/2.f94f2c04.chunk.css": "/react-gh-pages/static/css/2.f94f2c04.chunk.css",
-    "static/js/2.ca826929.chunk.js": "/react-gh-pages/static/js/2.ca826929.chunk.js",
-    "static/js/2.ca826929.chunk.js.map": "/react-gh-pages/static/js/2.ca826929.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.88895869e2cfdfa4c3a36e159077b804.js": "/react-gh-pages/precache-manifest.88895869e2cfdfa4c3a36e159077b804.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.f94f2c04.chunk.css.map": "/react-gh-pages/static/css/2.f94f2c04.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "/react-gh-pages/static/css/main.34de6062.chunk.css.map",
-    "static/media/all.min.css": "/react-gh-pages/static/media/fa-solid-900.c2801fb4.svg"
+    "main.css": "/react-context-example/static/css/main.34de6062.chunk.css",
+    "main.js": "/react-context-example/static/js/main.474f4d5a.chunk.js",
+    "main.js.map": "/react-context-example/static/js/main.474f4d5a.chunk.js.map",
+    "runtime-main.js": "/react-context-example/static/js/runtime-main.63cf984d.js",
+    "runtime-main.js.map": "/react-context-example/static/js/runtime-main.63cf984d.js.map",
+    "static/css/2.ed5a249e.chunk.css": "/react-context-example/static/css/2.ed5a249e.chunk.css",
+    "static/js/2.ca826929.chunk.js": "/react-context-example/static/js/2.ca826929.chunk.js",
+    "static/js/2.ca826929.chunk.js.map": "/react-context-example/static/js/2.ca826929.chunk.js.map",
+    "index.html": "/react-context-example/index.html",
+    "precache-manifest.fcbb5d9c20a1d0dd2199cc5b14fe8194.js": "/react-context-example/precache-manifest.fcbb5d9c20a1d0dd2199cc5b14fe8194.js",
+    "service-worker.js": "/react-context-example/service-worker.js",
+    "static/css/2.ed5a249e.chunk.css.map": "/react-context-example/static/css/2.ed5a249e.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/react-context-example/static/css/main.34de6062.chunk.css.map",
+    "static/media/all.min.css": "/react-context-example/static/media/fa-solid-900.c2801fb4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.64e4149a.js",
-    "static/css/2.f94f2c04.chunk.css",
+    "static/js/runtime-main.63cf984d.js",
+    "static/css/2.ed5a249e.chunk.css",
     "static/js/2.ca826929.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.afd3de3c.chunk.js"
+    "static/js/main.474f4d5a.chunk.js"
   ]
 }
