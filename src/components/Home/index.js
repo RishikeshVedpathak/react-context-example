@@ -19,7 +19,7 @@ export default () => {
                             <div className="card-body">
                                 <h5 className="card-title">{product.name}</h5>
                                 <p className="card-text">{product.details}</p>
-                                <p className="text-primary font-weight-bold">{product.price}</p>
+                                <p className="text-primary font-weight-bold">₹ {product.price}</p>
                                 {
                                     product.addedToCart ? <button className="btn btn-warning" onClick={() => handleCartUpdate(product.id)}>Remove from cart</button>
                                         : <button className="btn btn-success" disabled={product.addedToCart} onClick={() => handleCartUpdate(product.id)}>Add to cart</button>
