@@ -5,8 +5,8 @@ export default () => {
     const cartContext = useContext(AppContext);
 
     const handleCartUpdate = (id) => {
-        const proctsState = cartContext.data.products.map(product => ({ ...product, addedToCart: (product.id === id ? !product.addedToCart : product.addedToCart) }));
-        cartContext.updateData({ products: proctsState });
+        const productsState = cartContext.data.products.map(product => ({ ...product, addedToCart: (product.id === id ? !product.addedToCart : product.addedToCart) }));
+        cartContext.updateData({ products: productsState });
     }
 
     return (
